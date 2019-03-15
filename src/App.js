@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){ 
     $.ajax({
-      url:'https://s3.amazonaws.com/resumedataforzayb/resumeData.json',
+      url:'./resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
