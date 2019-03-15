@@ -2,17 +2,17 @@
   "main": {
     "name":"Zayn",
     "occupation":"Computer Engineer Undergraduate",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"My given name is Zhuang Yuan, but please call me Zayn. I am a firm believer that innovation is the way to effectively solve the world’s problems. Being a future computer engineer, my area of interest includes Augmented Reality (AR) and Computer Vision.",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "yuan.z@u.nus.edu",
+    "phone": "+65 96430688",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Bedok South Avenue 3",
+      "city":"Blk 251",
+      "state":"Singapore",
+      "zip": "465479"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -34,7 +34,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/zayn/",
         "className":"fa fa-linkedin"
       },
       {
@@ -44,7 +44,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/za-yn",
         "className":"fa fa-github"
       },
       {
@@ -58,7 +58,7 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
+        "school":"National University of Singapore",
         "degree":"Masters in Beer tasting",
         "graduated":"April 2007",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
