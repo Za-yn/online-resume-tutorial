@@ -2,15 +2,21 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://za-yn.github.io/About-Me/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
+    "jquery": "^3.3.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
+    "react-ga": "^2.5.7",
     "react-scripts": "2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
